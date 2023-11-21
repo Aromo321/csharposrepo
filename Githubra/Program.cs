@@ -11,6 +11,7 @@ namespace Githubra
         static void Main(string[] args)
         {
             Console.WriteLine("Hello világ!");
+            Console.WriteLine("Ez egy újabb módosítás");
             Console.ReadLine();
         }
     }
