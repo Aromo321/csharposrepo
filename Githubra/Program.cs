@@ -10,6 +10,7 @@ namespace Githubra
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello világ!");
         }
     }
 }
